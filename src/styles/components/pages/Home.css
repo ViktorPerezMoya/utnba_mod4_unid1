@@ -1,0 +1,8 @@
+.page{
+    width: 100%;
+    background-color: tomato;
+    color: white;
+    padding-left: 1rem;
+    border-radius: 5px;
+    border: 2px solid orangered;
+}

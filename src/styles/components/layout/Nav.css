@@ -1,0 +1,28 @@
+.navigation{
+    height: 40px;
+    width: 100%;
+    background-color: lightskyblue;
+    border: 2px solid lightseagreen;
+    border-radius: 5px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+}
+
+ul>li{
+    float: left;
+    text-align: center;
+}
+
+li> a{
+    color:  white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li> a:hover{
+    background: rgba(0, 0, 0, 0.397);
+}
